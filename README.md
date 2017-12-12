@@ -6,8 +6,11 @@ things to download:
 3. mongoDB
 
 placing files:
-the sails project should be placed inside the current user directory. for me its C:\Users\Damian Cignarella\softwarePorject>
-the database should be placed directly in the C: directory. C:\dataFinal\db>
+the sails project should be placed inside the current user directory. for me its: 
+C:\Users\Damian Cignarella\softwarePorject>
+
+the database should be placed directly in the C: directory: 
+C:\dataFinal\db>
 
 running the project:
 once installed 2 command windows needed, one for sails.js project and the other for mongoDB.
